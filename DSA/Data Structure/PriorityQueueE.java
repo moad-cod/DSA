@@ -1,5 +1,3 @@
-import java.util.Collection;
-import java.util.Collections;
 import java.util.PriorityQueue;
 
 public class PriorityQueueE<T> {
